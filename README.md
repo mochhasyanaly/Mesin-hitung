@@ -1,1 +1,1 @@
-ini adalah aplikasi calculator
+ini adalah aplikasi kalkulator sederhana
