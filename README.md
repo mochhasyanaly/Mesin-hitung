@@ -1,1 +1,1 @@
-# mesin-hitung
+ini adalah aplikasi calculator
